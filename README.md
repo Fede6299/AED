@@ -1,4 +1,4 @@
-# UTN---Algoritmos-y-Estructura-de-Datos
+# UTN-Algoritmos-y-Estructura-de-Datos
 Profesor: Ing. José María Sola
 
 Curso: K1253 
