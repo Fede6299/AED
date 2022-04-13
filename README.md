@@ -1,10 +1,10 @@
 # UTN-Algoritmos y Estructura de Datos
-Profesor: Ing. José María Sola
-
 Curso: K1253 
 
-Año: 2022 
-
-Alumno: Apaza Federico Hernan 
+Año de cursada: 2022 
 
 Legajo: 171.393-0
+
+Apellido: Apaza 
+
+Nombre: Federico Hernan 
