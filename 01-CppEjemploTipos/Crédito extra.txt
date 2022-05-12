@@ -1,3 +1,16 @@
 ¿Son esos realmente todos los tipos que vimos en clase?
 Justifique.
 
+No solamente son los tipos de datos simples. Hay otros tipos de datos como:
+Tipos de Datos Más Abstractos
+ Ejemplos Comunes
+ String
+ Date: ¿es compuesto?
+ Money o Currency
+ Números Complejos
+ Flujo
+ ¿Qué carácterística comparten?
+ No tienen representación directa en máquina
+ Un int puede ser almacenado en un registro del 
+microprocesador, un string no.
+ No son estándar en los lenguajes de programación
