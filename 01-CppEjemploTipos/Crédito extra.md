@@ -1,4 +1,4 @@
-# ¿Son esos realmente todos los tipos que vimos en clase?. Justifique.
+# ¿Son esos realmente todos los tipos que vimos en clase? Justifique.
 
 >Un tipo de datos abstracto es una variable que puede cambiar según las condiciones dentro del programa. Este es un modelo de programación orientado a objetos que permite la reutilización de código mediante la creación de una capa de abstracción. Este tipo de datos se utiliza a menudo en los lenguajes de programación C ++ y Java® y se considera una técnica de desarrollo avanzada.. Por ejemplo, podriamos tener como elemento y operaciones:
 - Ejemplos Comunes
