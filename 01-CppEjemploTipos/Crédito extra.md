@@ -7,7 +7,7 @@
 3. Interseccion
 4. Números Complejos
 5. Flujo
-6.Pila - Cola
+6. Pila - Cola
 #### ¿Qué carácterística tienen?
 * Un ejemplo que se utiliza a menudo para describir tipos de datos abstractos son los objetos de lista y cola. Estos son objetos que mantienen la información de forma lineal, similar a una hoja de cálculo de datos.
 
