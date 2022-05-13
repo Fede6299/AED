@@ -89,6 +89,7 @@ int main(int argc, char const *argv[])
    assert("Apaza"s == "Apaza"s);
    assert("Apellido"s != "Federico"s);
    assert("Federico"s.length() >= "Facundo"s.length());
+   assert("no"s < "si"s );
    
    /*Feedback: el sufijo s nos indica que es un string */
 }
