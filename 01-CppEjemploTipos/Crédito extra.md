@@ -44,11 +44,17 @@ int main() {
 #### Cuando se compila y ejecuta el código anterior, produce el siguiente resultado, que puede variar de una máquina a otra, en mi caso esto serian los tamaños arrojados mediante el uso sifeof:
 
 >Size of char : 1
+   
 Size of int : 4
+   
 Size of short int : 2
+   
 Size of long int : 4
+   
 Size of float : 4
+   
 Size of double : 8
+   
 Size of wchar_t : 2
 ---
 
