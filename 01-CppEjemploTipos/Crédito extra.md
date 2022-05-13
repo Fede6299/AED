@@ -15,7 +15,7 @@ Tipos de Datos Más Abstractos
 microprocesador, un string no.
  No son estándar en los lenguajes de programación
 
-#Investigacion sobre sizeof y limits: 
+# Investigacion sobre sizeof y limits: 
 Sizeof: 
 El sizeof es una palabra clave, pero es un operador de tiempo de compilación que determina el tamaño, en bytes, de una variable o tipo de datos.
 El operador sizeof se puede utilizar para obtener el tamaño de clases, estructuras, uniones y cualquier otro tipo de datos definido por el usuario.
