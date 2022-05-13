@@ -60,4 +60,6 @@ Límites numéricos (C++),existen dos tipos de limites los  **<limits.h> y <floa
 ## Enlaces de referencia:
 [Sizeof](https://www.tutorialspoint.com/cplusplus/cpp_sizeof_operator.htm)
 
- [Limit](https://docs.microsoft.com/es-es/cpp/cpp/numerical-limits-cpp?view=msvc-170)
+[Limit](https://docs.microsoft.com/es-es/cpp/cpp/numerical-limits-cpp?view=msvc-170)
+
+[TDA](https://spiegato.com/es/que-es-un-tipo-de-datos-abstracto#:~:text=Un%20tipo%20de%20datos%20abstracto%20es%20una%20variable,mediante%20la%20creaci%C3%B3n%20de%20una%20capa%20de%20abstracci%C3%B3n.)
