@@ -43,7 +43,7 @@ int main() {
 ------------
 
 #### Cuando se compila y ejecuta el código anterior, produce el siguiente resultado, que puede variar de una máquina a otra, en mi caso esto serian los tamaños arrojados mediante el uso sifeof:
-``` exe
+```
 Size of char : 1
 Size of int : 4 
 Size of short int : 2 
