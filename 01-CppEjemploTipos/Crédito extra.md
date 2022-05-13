@@ -24,7 +24,8 @@ La sintaxis de usar sizeof es la siguiente:
 
 ##### sizeof (data type)
 
-```#include <iostream>
+```c++
+#include <iostream>
 using namespace std;
 int main() {
    cout << "Size of char : " << sizeof(char) << endl;
